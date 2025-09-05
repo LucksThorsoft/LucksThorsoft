@@ -2,7 +2,7 @@
 <!--  -->
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 I am a **Software Development student**, currently halfway through my degree.  
 I am expanding my knowledge in both **front-end and back-end development**, focusing on **Django (backend)** and **Vue.js (frontend)**.  
